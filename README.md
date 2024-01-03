@@ -1,6 +1,6 @@
 # E-Commerce Shop Excercise
 > This project is an interview project for a Full Stack Developer position.
-> The project was created with C#.
+> The project created with C#.
 
 ### How to use the application
 
@@ -14,7 +14,7 @@
 
 **Input target year:**
 
-3. The application will prompt you to "Enter the target year".
+3. The application will ask you to "Enter the target year".
    - Enter the target year and press Enter.
 
 **View the results:**
@@ -31,5 +31,4 @@
 ***Note:***
 
 - Ensure that the `DEV-data.txt` file is in the same directory as the application.
-- Make sure that you enter a valid year when you are prompted.
-- The application will guide you through the process.
+- Make sure you enter a valid year when asked.
